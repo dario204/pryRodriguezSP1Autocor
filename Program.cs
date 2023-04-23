@@ -16,7 +16,7 @@ namespace pryRodriguezSP1Autocor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmVeterinaria());
+            Application.Run(new frmMain());
         }
     }
 }
